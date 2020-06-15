@@ -1,0 +1,9 @@
+{
+    "svelteSortOrder": "scripts-styles-markup",
+    "svelteBracketNewLine": false,
+    "printWidth": 120,
+    "jsxBracketSameLine": true,
+    "htmlWhitespaceSensitivity": "strict",
+    "trailingComma": "none"
+  }
+  
