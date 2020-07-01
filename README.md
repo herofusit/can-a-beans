@@ -1,4 +1,4 @@
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+*[Demo Site]](https://red-island-0555a2810.azurestaticapps.net/)*
 
 ---
 
